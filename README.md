@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Dhanawade</h1>
 <h3 align="center">A passionate Full stack(MERN) Engineer from India</h3>
 
-- 🔭 I’m currently working on **Javascript and ES6 project**
+- 🔭 I’m currently working on **Web Development(MERN)**
 
 - 🌱 I’m currently learning **React and node js**
 
